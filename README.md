@@ -2,7 +2,7 @@
 ---
 #### Remove Sublime Text 3 User folder
 ```
-rm -rf ln -s ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
 ```
 
 #### Then
