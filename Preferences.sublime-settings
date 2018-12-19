@@ -1,0 +1,30 @@
+{
+	"always_show_minimap_viewport": false,
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/ayu/ayu-dark.tmTheme",
+	"detect_indentation": true,
+	"font_face": "$HOME/Library/Fonts/NerdFonts/Sauce Code Pro Semibold Italic Nerd Font Complete Mono",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ensure_newline_at_eof_on_save": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 4,
+	"theme": "ayu-dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_big_tabs": false,
+	"ui_fix_tab_labels": true,
+	"ui_font_default": false,
+	"ui_font_size_small": true,
+	"ui_font_source_code_pro": true,
+	"ui_separator": true,
+	"ui_wide_scrollbars": true
+}

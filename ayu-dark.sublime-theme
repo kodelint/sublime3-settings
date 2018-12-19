@@ -1,0 +1,39 @@
+[
+    {
+        "class": "sidebar_label",
+	"color": [192,197,203],
+	"font_face": "$HOME/Library/Fonts/NerdFonts/Sauce Code Pro Black Nerd Font Complete",
+        "font.bold": false,
+        "font.size": 14
+    },
+//
+// TAB LABELS
+//
+
+    {
+        "class": "tab_label",
+        "fade": true,
+        "fg": [101, 115, 127] // 03
+    },
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control","attributes": ["hover"]}],
+        "fg": [192, 197, 206] // 05
+    },
+    {
+        "class": "tab_label",
+        "parents": [{"class": "tab_control","attributes": ["selected"]}],
+        "fg": [223, 225, 232] // 06
+    },
+    {
+        "class": "tab_label",
+        "attributes": ["transient"],
+        "font.italic": true
+    },
+
+    // Tab Labels font size
+    {
+        "class": "tab_label",
+        "font.size": 14.0
+    },
+]
